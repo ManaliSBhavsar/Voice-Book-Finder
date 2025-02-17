@@ -4,10 +4,15 @@ Voice Book Finder is a full-fledged library management system with functionaliti
 
 # Tech Stack
 Python: The main programming language used to develop the application.
+
 Tkinter: A Python library for creating graphical user interfaces (GUIs). It's used to design the login screens, forms for adding and removing books, and buttons.
+
 Speech Recognition (SpeechRecognition): The library used for voice-based book searching. It uses Google's Web Speech API to recognize speech.
+
 MySQL (PyMySQL): A MySQL database is used for storing book details, user information, and tracking issued books. The pymysql library is used to interact with the database.
+
 SMTP (smtplib): Used for sending emails (e.g., when a book is issued to a user).
+
 OS: A standard library for interacting with the file system, such as checking if a user file exists for login purposes.
 
 ## Database Setup

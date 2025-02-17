@@ -58,4 +58,4 @@ The database integration is part of the full implementation, but is excluded fro
 ## Requirements
 
 - MySQL Server
-- Python libraries: `pymysql`, `tkinter`, `SpeechRecognition`, `Pillow`
+- Python libraries: `pymysql`, `tkinter`, `SpeechRecognition`

@@ -2,7 +2,7 @@
 
 Voice Book Finder is a full-fledged library management system with functionalities to add, search, delete, and issue books. Speech recognition is incorporated to search for books by genre, providing a user-friendly interface for book management. Deployed on local systems, demonstrating database connection, GUI design, and interactive features. Integrated into a MySQL database to store book and user details and performed CRUD operations using Python. For enhanced security, the system implements email and password authentication for both students and admins. This ensures secure access to the system for different user roles.
 
-# Tech Stack used
+# Tech Stack
 Python: The main programming language used to develop the application.
 Tkinter: A Python library for creating graphical user interfaces (GUIs). It's used to design the login screens, forms for adding and removing books, and buttons.
 Speech Recognition (SpeechRecognition): The library used for voice-based book searching. It uses Google's Web Speech API to recognize speech.
